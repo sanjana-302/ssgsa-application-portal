@@ -6,7 +6,7 @@ const DateTable = () => {
       <h1 className="text-blue-850 lg:text-3xl mx-2 mb-4 font-extrabold">
         Dates of Full Term 2021-2022
       </h1>
-      <table className="w-full">
+      <table className="w-full shadow-lg border-2 border-gray">
         <tbody>
           <tr>
             <td className="bg-blue-850 text-white p-2 w-1/3">

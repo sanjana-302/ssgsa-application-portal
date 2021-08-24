@@ -10,8 +10,8 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Header />
-      <UpperCarousel />
       <Counter />
+      <UpperCarousel />
       <div className="mx-2 mt-10 lg:flex justify-around lg:mx-20">
         <Datetable />
         <Apply />
